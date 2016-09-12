@@ -1,0 +1,25 @@
+.tabs-link {
+    padding-bottom: 20px;
+}
+
+.tabs-link a {
+    border: 1px solid;
+}
+
+.tabs-content {
+    border: 1px solid;
+}
+
+.tabs-content .tabs-item {
+    padding-bottom: 7px;
+    display: none;
+}
+
+
+.tabs-item.tabs-active {
+    display: block;
+}
+
+.link-active {
+    color: #FF0000;
+}

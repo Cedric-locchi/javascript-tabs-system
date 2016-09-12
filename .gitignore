@@ -1,0 +1,6 @@
+# config jetbrains
+.idea
+
+# OS metadata
+.DS_Store
+Thumbs.db
